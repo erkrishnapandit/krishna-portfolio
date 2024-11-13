@@ -97,10 +97,12 @@ nav ul li a:hover::after{
     width: 100%;
     border-radius: 15px;
 }
+
 .about-col-2{
     /* border: 1px solid red; */
     flex-basis: 60%;
 }
+
 .sub-title{
     font-size: 60px;
     font-weight: 600;
@@ -120,6 +122,7 @@ nav ul li a:hover::after{
     cursor: pointer;
     position: relative;
 }
+
 .tab-links::after{
     content: '';
     width: 0;
@@ -144,9 +147,11 @@ nav ul li a:hover::after{
     color: yellow;
     font-size: 14px;
 }
+
 .tab-content{
     display: none;
 }
+
 .tab-content.active-tab{
     display: block;
 }
