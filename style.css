@@ -68,7 +68,7 @@ nav ul li a:hover::after {
 }
 
 .header-text {
-    margin-top: 50vh;
+    margin-top: 30vh;
     font-size: 20px;
 }
 
@@ -354,6 +354,11 @@ nav ul li a:hover::after {
     background: #ff004f;
 }
 
+.btn.btn3 {
+    display: inline-block;
+    background: #004cff;
+    border: none;
+}
 .contact-right form {
     width: 100%;
 }
