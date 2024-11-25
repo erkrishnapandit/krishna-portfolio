@@ -401,7 +401,7 @@ nav .fa-solid{
 
 @media only screen and (max-width: 600px) {
     #header {
-        background-size: contain;
+        background-size: cover;
         background-image:none;
         background-image: url(Image/krishna_bg_small.png);
      }
